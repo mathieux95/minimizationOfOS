@@ -1,4 +1,4 @@
-# minimizationOfOS
+# Network Operating Systems - Semestral project Minimization Of OS
 
 ## Team members
 
