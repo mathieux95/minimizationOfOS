@@ -55,7 +55,8 @@ Minimalizovaný systém musí umožňovat: </p>
 
 <p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat software teprve po požadavku na zobrazení stránky/skript. </p> 
 
-❗Systém musí být schopen opětovného startu po prvním spuštění.
+❗Systém musí být schopen **opětovného startu** po prvním spuštění.
+
 ❗Výstupem projektu je upravený operační systém ve formě virtuálního stroje, který je spustitelný programem Oracle VM VirtualBox (VB).
 
 <a name="commands"></a>
