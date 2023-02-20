@@ -22,8 +22,8 @@ Minimalizovaný systém musí umožňovat:
 1. Zobrazení hlavní stránky VUT www.vutbr.cz.
 2. Zobrazení skript pro předmět SOS.
 
-- [] Stránka musí být zobrazena v originální podobě s obrázky. 
-- [] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
+[] Stránka musí být zobrazena v originální podobě s obrázky. 
+[] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 
 Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. 
 
