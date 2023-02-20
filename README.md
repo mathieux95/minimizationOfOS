@@ -36,6 +36,11 @@ Minimalizovaný systém musí umožňovat: </p>
 * Debian | www.debian.org
 * Ubuntu | www.debian.org
 
+* CentOS Stream | www.centos.org
+* Fedora | www.getfedora.org
+* Debian | www.debian.org
+* Ubuntu | www.debian.org
+
 <p> Pro řešení projektu musí být vždy použita **aktuální verze operačního systému** platná k začátku semestru. </p>
 <p> Prozkoumání distribucí a nalezení nevhodnější pro řešitelský kolektiv je součástí projektu. </p>
 
