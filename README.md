@@ -66,3 +66,4 @@ Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného
 
 <a name="commands"></a>
 ## Commands executed
+`dnf -y install xorg-x11-server-Xorg twm arora xinit mupdf`
