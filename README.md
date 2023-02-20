@@ -3,7 +3,7 @@
 ## Team members
 
 * **Matej Gradoš** (ID: 230551) [@mathieux95](https://github.com/mathieux95)
-* **Patrik Horčička** (ID: -.-.-.-.-.-) 
+* **Patrik Horčička** (ID: -.-.-.-.-.-) [@patrikhor](https://github.com/patrikhor)
 * **Radim Macho** (ID: 221666) [@xmacho11](https://github.com/xmacho11)
 * **Vilém Pecháček** (ID: -.-.-.-.-.-) 
 
