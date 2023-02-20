@@ -16,8 +16,8 @@
 
 ## Project description
 
-Skupinový projekt zahrnuje úpravy operačního systému s jádrem Linux. Zadáním projektu je upravit systém tak, aby se zmenšila jeho velikost.
-Minimalizovaný systém musí umožňovat:
+<p> Skupinový projekt zahrnuje úpravy operačního systému s jádrem Linux. Zadáním projektu je upravit systém tak, aby se zmenšila jeho velikost.
+Minimalizovaný systém musí umožňovat: </p>
 
 1. Zobrazení hlavní stránky VUT www.vutbr.cz.
 2. Zobrazení skript pro předmět SOS.
@@ -25,21 +25,21 @@ Minimalizovaný systém musí umožňovat:
 - [ ] Stránka musí být zobrazena v originální podobě s obrázky. 
 - [ ] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 
-Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. 
+<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. </p>
 
 - [ ] Systém musí být schopen opětovného startu po prvním spuštění.
 
 
-Operační systém pro řešení projektu si lze zvolit z následujících: 
+<p> Operační systém pro řešení projektu si lze zvolit z následujících: </p>
 * CentOS Stream www.centos.org
 * Fedora www.getfedora.org 
 * Debian www.debian.org
 * Ubuntu www.debian.org
 
-Pro řešení projektu musí být vždy použita aktuální verze operačního systému platná k začátku semestru. 
-Prozkoumání distribucí a nalezení nevhodnější pro řešitelský kolektiv je součástí projektu.
+<p> Pro řešení projektu musí být vždy použita aktuální verze operačního systému platná k začátku semestru. </p>
+<p> Prozkoumání distribucí a nalezení nevhodnější pro řešitelský kolektiv je součástí projektu. </p>
 
-Virtualizační nástroj Oracle VM VirtualBox je k dispozici na www.virtualbox.org. Opět musí být použita aktuální verze platná k začátku semestru.
+<p> Virtualizační nástroj Oracle VM VirtualBox je k dispozici na www.virtualbox.org. Opět musí být použita aktuální verze platná k začátku semestru.</p>
 
 
 <a name="objectives"></a>
@@ -54,7 +54,7 @@ Minimalizovaný systém musí umožňovat:
 ❗Stránka musí být zobrazena v originální podobě s obrázky. 
 ❗Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 
-Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. 
+<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. </p> 
 
 ❗Systém musí být schopen opětovného startu po prvním spuštění.
 ❗Výstupem projektu je upravený operační systém ve formě virtuálního stroje, který je spustitelný programem Oracle VM VirtualBox (VB).
