@@ -30,7 +30,7 @@ Minimalizovaný systém musí umožňovat: </p>
 - [ ] Systém musí být schopen **opětovného startu** po prvním spuštění.
 
 
-<p> Operační systém pro řešení projektu si lze zvolit z následujících: </p>
+<p> **Operační systém** pro řešení projektu si lze zvolit z následujících: </p>
 
 * CentOS Stream | www.centos.org
 * Fedora | www.getfedora.org
