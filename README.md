@@ -47,15 +47,13 @@ Minimalizovaný systém musí umožňovat: </p>
 
 ## Project objectives
 
-Minimalizovaný systém musí umožňovat:
-
-- [ ] Zobrazení hlavní stránky VUT www.vutbr.cz.
-- [ ] Zobrazení skript pro předmět SOS.
-
+- [ ] Zobrazení hlavní stránky VUT www.vutbr.cz
 ❗Stránka musí být zobrazena v originální podobě s obrázky. 
+
+- [ ] Zobrazení skript pro předmět SOS.
 ❗Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 
-<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. </p> 
+<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat software teprve po požadavku na zobrazení stránky/skript. </p> 
 
 ❗Systém musí být schopen opětovného startu po prvním spuštění.
 ❗Výstupem projektu je upravený operační systém ve formě virtuálního stroje, který je spustitelný programem Oracle VM VirtualBox (VB).
