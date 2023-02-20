@@ -23,7 +23,7 @@ Minimalizovaný systém musí umožňovat:
 2. Zobrazení skript pro předmět SOS.
 <br />
 [ ] Stránka musí být zobrazena v originální podobě s obrázky. 
-[ ] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
+Markup: - [ ] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 <br />
 Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. 
 <br />
