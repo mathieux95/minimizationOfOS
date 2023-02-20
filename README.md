@@ -22,12 +22,12 @@ Minimalizovaný systém musí umožňovat:
 1. Zobrazení hlavní stránky VUT www.vutbr.cz.
 2. Zobrazení skript pro předmět SOS.
 
-[] Stránka musí být zobrazena v originální podobě s obrázky. 
-[] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
+- [ ] Stránka musí být zobrazena v originální podobě s obrázky. 
+- [ ] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
 
 Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. 
 
-- [] Systém musí být schopen opětovného startu po prvním spuštění.
+- [ ] Systém musí být schopen opětovného startu po prvním spuštění.
 
 Zadání projektu je postaveno na uměle vytvořeném problému. V praxi lze nalézt minimalistické systémy. Projekt má za účel prohloubení znalostí stavby operačních systémů, zejména s jádrem Linux. Systémy s jádrem Linux jsou běžně využívány na různých hardwarových platformách, od jednodeskových a klasických počítačů po výpočetní klastry. Dále jsou využívány ve velké škále zařízení týkajících se studijních oborů na fakultě. Jedná se například o mobilní zařízení, senzorové jednotky, multimediální zařízení, síťové prvky (směrovače, přepínače), zdravotnická zařízení atd.
 
@@ -53,8 +53,8 @@ Virtualizační nástroj Oracle VM VirtualBox je k dispozici na www.virtualbox.o
 
 Minimalizovaný systém musí umožňovat:
 
-- [] Zobrazení hlavní stránky VUT www.vutbr.cz.
-- [] Zobrazení skript pro předmět SOS.
+- [ ] Zobrazení hlavní stránky VUT www.vutbr.cz.
+- [ ] Zobrazení skript pro předmět SOS.
 
 ❗Stránka musí být zobrazena v originální podobě s obrázky. 
 ❗Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
