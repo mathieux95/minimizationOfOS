@@ -53,8 +53,8 @@ Virtualizační nástroj Oracle VM VirtualBox je k dispozici na www.virtualbox.o
 
 Minimalizovaný systém musí umožňovat:
 
-- []Zobrazení hlavní stránky VUT www.vutbr.cz.
-- []Zobrazení skript pro předmět SOS.
+- [] Zobrazení hlavní stránky VUT www.vutbr.cz.
+- [] Zobrazení skript pro předmět SOS.
 
 ❗Stránka musí být zobrazena v originální podobě s obrázky. 
 ❗Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
