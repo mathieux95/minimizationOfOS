@@ -27,16 +27,16 @@ Minimalizovaný systém musí umožňovat: </p>
 
 <p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. </p>
 
-- [ ] Systém musí být schopen opětovného startu po prvním spuštění.
+- [ ] Systém musí být schopen **opětovného startu** po prvním spuštění.
 
 
 <p> Operační systém pro řešení projektu si lze zvolit z následujících: </p>
-* CentOS Stream www.centos.org
-* Fedora www.getfedora.org 
-* Debian www.debian.org
-* Ubuntu www.debian.org
+* **CentOS Stream** www.centos.org
+* **Fedora** www.getfedora.org 
+* **Debian** www.debian.org
+* **Ubuntu** www.debian.org
 
-<p> Pro řešení projektu musí být vždy použita aktuální verze operačního systému platná k začátku semestru. </p>
+<p> Pro řešení projektu musí být vždy použita **aktuální verze operačního systému** platná k začátku semestru. </p>
 <p> Prozkoumání distribucí a nalezení nevhodnější pro řešitelský kolektiv je součástí projektu. </p>
 
 <p> Virtualizační nástroj Oracle VM VirtualBox je k dispozici na www.virtualbox.org. Opět musí být použita aktuální verze platná k začátku semestru.</p>
