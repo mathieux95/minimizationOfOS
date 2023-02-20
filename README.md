@@ -31,10 +31,6 @@ Minimalizovaný systém musí umožňovat: </p>
 
 
 <p> Operační systém pro řešení projektu si lze zvolit z následujících: </p>
-* CentOS Stream | www.centos.org
-* Fedora | www.getfedora.org
-* Debian | www.debian.org
-* Ubuntu | www.debian.org
 
 * CentOS Stream | www.centos.org
 * Fedora | www.getfedora.org
