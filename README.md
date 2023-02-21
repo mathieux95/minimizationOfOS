@@ -16,19 +16,10 @@
 
 ## Project description
 
-<p> Skupinový projekt zahrnuje úpravy operačního systému s jádrem Linux. Zadáním projektu je upravit systém tak, aby se zmenšila jeho velikost.
-Minimalizovaný systém musí umožňovat: </p>
+Skupinový projekt zahrnuje úpravy operačního systému s jádrem Linux. Zadáním projektu je upravit systém tak, aby se zmenšila jeho velikost.
+Minimalizovaný systém musí umožňovat: `zobrazení hlavní stránky VUT www.vutbr.cz` a `zobrazení skript pro předmět SOS`.
 
-1. Zobrazení hlavní stránky VUT www.vutbr.cz.
-2. Zobrazení skript pro předmět SOS.
-
-- [ ] Stránka musí být zobrazena v originální podobě s obrázky. 
-- [ ] Skripta musí být zobrazena pomocí lokálního PDF prohlížeče. 
-
-<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat soft- ware teprve po požadavku na zobrazení stránky/skript. </p>
-
-- [ ] Systém musí být schopen **opětovného startu** po prvním spuštění.
-
+<p> Zobrazení musí být provedeno bez výrazných prodlev, tj. v rámci běžného zpoždění v operačním systému. Nelze například automaticky instalovat software teprve po požadavku na zobrazení stránky/skript. </p>
 
 <p> Operační systém pro řešení projektu si lze zvolit z následujících: </p>
 
@@ -61,4 +52,7 @@ Minimalizovaný systém musí umožňovat: </p>
 
 <a name="commands"></a>
 ## Commands executed
+
+Pri minimalizovaní OS boli použité tieto príkazy:
+
 `dnf -y install xorg-x11-server-Xorg twm arora xinit mupdf`
