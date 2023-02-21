@@ -1,4 +1,4 @@
 230551, Matej, Gradoš
-222222, Patrik, Horčička
+230558, Patrik, Horčička
 221666, Radim, Macho
 230626, Vilém, Pecháček
