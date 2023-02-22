@@ -1,10 +1,11 @@
-- proveden snapchot
+NEKDE TU NEJAKY PACKAGE ODEBERE FUNKCNOST GUI PO RESTARTU, VRACENO DO STAVU PRED ODEBRANIM SEZNAMU
+
 aspell
 avahi-daemon
 bash-completion
 bc
 bind9-host
-ca-certificates - proveden snapchot 1
+ca-certificates
 debian-faq
 eject
 file
@@ -12,7 +13,7 @@ gettext-base (byl error ale zvoleno nemazat, ovsem opetovne oznacen jako smazany
 gnupg
 iamerican
 ibritish
-ispell - proveden snapchot 2
+ispell
 laptop-detect
 manpages
 nano
@@ -22,4 +23,4 @@ ppp
 traceroute
 usbutils
 vim-common 
-wamerican - proveden snapchot 3
+wamerican
