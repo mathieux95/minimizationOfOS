@@ -16,11 +16,23 @@ dpkg -l
 smazani aplikace + smazani přidružených souborů:
 sudo apt purge --auto-remove "nazevv_aplikace"
 
-
 někdy je třeba být root:
 su- -l
 pass: admin
 
 
+
 zjisteni velikosti systemu v B
 du / --exclude=/{proc,sys,dev} -abc | sort -n
+
+
+
+zjisteni  modulu v systemu:
+lsmod
+
+smazani modulu
+modprobe -r "nazev_modulu"
+
+nektere moduly jsou nutne pro fungovani nektere ne
+POZOR moduly oznacene pouzivano 0 neznamena ze nejsou dullezite pro beh systemu a naopak 
+
