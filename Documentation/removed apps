@@ -19,4 +19,10 @@ bluez-obexd
 g++
 gcc
 gcc-10
-
+ppp
+shotwell
+usbutils
+vim-common
+yelp
+zip
+nano
