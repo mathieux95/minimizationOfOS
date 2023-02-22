@@ -8,3 +8,15 @@ Activities>ikontka Firefox
 
 otevreni souboru
 cmd>cd Downloads>open OS_theory_classic.pdf
+
+
+vypis aplikaci co je mozne smazat (POZOR SMAZANI VYPSANYCH APLIKACI MUZE VEST K ZHROUCENI SYSTEMU):
+dpkg -l
+
+smazaní aplikace + smazaní přidružených souborů:
+sudo apt purge --auto-remove "nazevv_aplikace"
+
+
+někdy je třeba být root:
+su- -l
+pass: admin
