@@ -1,6 +1,5 @@
 gedit
 gnome-accessibility-themes
-gnome-backgrounds
 gnome-blutooth
 gnome-calculator
 gnome-characters
@@ -20,5 +19,4 @@ bluez-obexd
 g++
 gcc
 gcc-10
-gcr
 
