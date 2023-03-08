@@ -9,6 +9,13 @@ gnome-getting-started-docs
 gnome-font-viewer
 gnome-software
 gnome-system-moniotr
+gnome-control-center
+gnome-online-miners
+gnome-remote dektop
+unzip
+usb.ids
+usb-modeswitch
+usbmuxd
 totem totem-plugins
 font-manager
 libreoffice
