@@ -1,7 +1,7 @@
-user: admin
-pass: admin
+user: root
+pass: student
 user: student
-pass: admin
+pass: student
 
 otevreni prohlizece
 Activities>ikontka Firefox
