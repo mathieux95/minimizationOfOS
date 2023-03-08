@@ -7,7 +7,7 @@ otevreni prohlizece
 Activities>ikontka Firefox
 
 otevreni souboru
-cmd>cd Downloads>open OS_theory_classic.pdf
+cmd>open OS_theory_classic.pdf
 
 
 vypis aplikaci co je mozne smazat (POZOR SMAZANI VYPSANYCH APLIKACI MUZE VEST K ZHROUCENI SYSTEMU):
