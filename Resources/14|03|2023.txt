@@ -1,3 +1,9 @@
+su -> student
+sudo apt remove <nameOfPackage>
+
+
+
+
 ii  accountsservice                       0.6.55-3                         amd64        query and manipulate user account information
 ii  acl                                   2.2.53-10                        amd64        access control list - utilities
 ii  adduser                               3.118                            all          add and remove users and groups
