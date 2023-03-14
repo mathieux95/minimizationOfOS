@@ -5,3 +5,4 @@ gcc-9-base:amd64
 gcr
 python3
 xkb-data (vymazalo to všetky appky)
+x11-apps
