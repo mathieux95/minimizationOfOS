@@ -4,3 +4,4 @@ gcc-10-base:amd64
 gcc-9-base:amd64
 gcr
 python3
+xkb-data (vymazalo to všetky appky)
